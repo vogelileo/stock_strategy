@@ -25,4 +25,4 @@ In this project, I tested the "Buy the Dip" strategy by:
 3. **Run the Notebook**: Open the Jupyter Notebook and follow the instructions to run the analyses.
 
 ## Results
-The results of this analysis provide insights into the viability of the "Buy the Dip" strategy compared to a more traditional monthly investment in the S&P 500.
+The results of this analysis provide insights into the viability of the "Buy the Dip" strategy compared to a more traditional monthly investment in the S&P 500. It is worse than the montly investment strategy
